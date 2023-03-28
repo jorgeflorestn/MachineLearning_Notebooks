@@ -9,9 +9,9 @@ Es similar a la regresión lineal, excepto que en lugar de un resultado gráfico
 Un algoritmo de clasificación se puede dividir entre las diversas salidas pero discretas, es decir, los datos no son nubes de puntos continuos, sino para varios y limitados numeros de dígitos.
 
 
-Simple. para $ y   \epsilon \{ 0, 1 \} $
+Simple. para $ y \epsilon \{ 0, 1 \} $
 
-Multiclase para $ y   \epsilon \{ 0, 1, 2, 3, 4, ..., n \} $
+Multiclase para $ y \epsilon \{ 0, 1, 2, 3, 4, ..., n \} $
 
 
 ## Modelo de regresión lineal
