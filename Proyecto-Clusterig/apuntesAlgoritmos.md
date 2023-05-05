@@ -18,3 +18,7 @@ Soluciones en los siguientes enlaces:
 [Enlace 1](https://stackoverflow.com/questions/39401729/plot-latitude-longitude-points-from-dataframe-on-folium-map-ipython)
 
 [Enlace 2](https://www.cienciadedatos.net/documentos/py20-clustering-con-python.html)
+
+[SKLearn, para estandarizar datos](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+[Kmeans SKLearn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+[]()
